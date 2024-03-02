@@ -30,7 +30,7 @@
 //     }
 // }
 
-//without using second array
+//-----------------without using second array---------------
 #include <bits/stdc++.h>
 using namespace std;
 
