@@ -21,7 +21,7 @@ using namespace std;
 //     }
 // }
 
-//optimal solution
+//-------------optimal solution-------------
 
 int main(){
     int n;

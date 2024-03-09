@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//optimal approach
+//------optimal approach----------
 int missing(int arr[],int n){
     int sum = (n+1)*(n+2)/2;
     int s=0;

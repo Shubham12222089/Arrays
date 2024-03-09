@@ -20,7 +20,6 @@ int main(){
             c++;
         }
     }
-
     for(int k=0;k<c;k++){
         cout<<arr[k]<<" ";
     }
